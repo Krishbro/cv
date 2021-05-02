@@ -1,0 +1,125 @@
+
+body{
+  margin: 0px;
+  text-align: center;
+  color: #40514E;
+
+}
+h1{
+  margin-top: 10px;
+  font-family: 'Architects Daughter', cursive;
+
+}
+h3{
+  color:#8ab6d6;
+}
+h2{
+  color: #1cc5dc
+
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color:#EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  margin: 20px auto;
+}
+.p{
+  line-height: 2;
+}
+.top-container{
+background-color: #E4F9F5;
+position: relative;
+padding-top: 100px;
+
+
+}
+.cloud2{
+  position: absolute;
+  left: 450px;
+  bottom: 300px;
+
+}
+
+.cloud1{
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+
+.mahesh{
+  width: 300px;
+  height: 300px;
+}
+.middle-container{
+  position: relative;
+  padding-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 30px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.intro{
+  width: 30%;
+  margin:auto;
+}
+.img02{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.img03{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.img04{
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+.img05{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.price{
+  width: 30%;
+  margin: 40px auto 40px;
+}
+
+.btn {
+  background: #6ee6ca;
+  background-image: -webkit-linear-gradient(top, #6ee6ca, #12c8e8);
+  background-image: -moz-linear-gradient(top, #6ee6ca, #12c8e8);
+  background-image: -ms-linear-gradient(top, #6ee6ca, #12c8e8);
+  background-image: -o-linear-gradient(top, #6ee6ca, #12c8e8);
+  background-image: linear-gradient(to bottom, #6ee6ca, #12c8e8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #88c9f2;
+  background-image: -webkit-linear-gradient(top, #88c9f2, #407da6);
+  background-image: -moz-linear-gradient(top, #88c9f2, #407da6);
+  background-image: -ms-linear-gradient(top, #88c9f2, #407da6);
+  background-image: -o-linear-gradient(top, #88c9f2, #407da6);
+  background-image: linear-gradient(to bottom, #88c9f2, #407da6);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding: 50px 0 20px;
+}
